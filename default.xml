@@ -305,7 +305,7 @@
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/security" name="platform/system/security" />
-  <project path="system/vold" name="platform/system/vold" />
+  <project path="system/vold" name="CNA/android_system_vold" remote="github" revision="jellybean" />
 
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="github" revision="jellybean" />
   <project path="packages/apps/Trebuchet" name="CNA/android_packages_apps_Trebuchet" remote="github" revision="jellybean" />
