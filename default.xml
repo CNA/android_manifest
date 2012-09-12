@@ -16,9 +16,9 @@
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
   <project path="bionic" name="platform/bionic" />
-  <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
-  <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
-  <project path="bootable/recovery" name="platform/bootable/recovery" />
+  <project path="bootable/bootloader/legacy" name="CNA/android_bootable_bootloader_legacy" remote="github" revision="jellybean" />
+  <project path="bootable/diskinstaller" name="CNA/android_bootable_diskinstaller" remote="github" revision="jellybean" />
+  <project path="bootable/recovery" name="CNA/android_bootable_recovery" remote="github" revision="jellybean" />
   <project path="cts" name="platform/cts" />
   <project path="dalvik" name="platform/dalvik" />
   <project path="development" name="CNA/android_development" remote="github" revision="jellybean" />
@@ -184,8 +184,8 @@
   <project path="external/wpa_supplicant_6" name="platform/external/wpa_supplicant_6" />
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
-  <project path="external/yaffs2" name="platform/external/yaffs2" />
-  <project path="external/zlib" name="platform/external/zlib" />
+  <project path="external/yaffs2" name="CNA/android_external_yaffs2" remote="github" revision="jellybean" />
+  <project path="external/zlib" name="CNA/android_external_zlib" remote="github" revision="jellybean" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="CNA/android_frameworks_av" remote="github" revision="jellybean" />
   <project path="frameworks/base" name="CNA/android_frameworks_base" remote="github" revision="jellybean" />
