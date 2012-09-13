@@ -181,8 +181,8 @@
   <project path="external/webkit" name="platform/external/webkit" />
   <project path="external/webp" name="platform/external/webp" />
   <project path="external/webrtc" name="platform/external/webrtc" />
-  <project path="external/wpa_supplicant_6" name="platform/external/wpa_supplicant_6" />
-  <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" />
+  <project path="external/wpa_supplicant_6" name="CNA/android_external_wpa_supplicant_6" remote="github" revision="jellybean" />
+  <project path="external/wpa_supplicant_8" name="CNA/android_external_wpa_supplicant_8" remote="github" revision="jellybean" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/yaffs2" name="CNA/android_external_yaffs2" remote="github" revision="jellybean" />
   <project path="external/zlib" name="CNA/android_external_zlib" remote="github" revision="jellybean" />
