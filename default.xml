@@ -16,9 +16,9 @@
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
   <project path="bionic" name="CNA/android_bionic" remote="github" revision="jellybean" />
-  <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
-  <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
-  <project path="bootable/recovery" name="platform/bootable/recovery" />
+  <project path="bootable/bootloader/legacy" name="CNA/android_bootable_bootloader_legacy" remote="github" revision="jellybean" />
+  <project path="bootable/diskinstaller" name="CNA/android_bootable_diskinstaller" remote="github" revision="jellybean" />
+  <project path="bootable/recovery" name="CNA/android_bootable_recovery" remote="github" revision="jellybean" />
   <project path="cts" name="platform/cts" />
   <project path="dalvik" name="platform/dalvik" />
   <project path="development" name="CNA/android_development" remote="github" revision="jellybean" />
