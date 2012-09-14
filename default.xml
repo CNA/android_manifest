@@ -20,7 +20,7 @@
   <project path="bootable/diskinstaller" name="CNA/android_bootable_diskinstaller" remote="github" revision="jellybean" />
   <project path="bootable/recovery" name="CNA/android_bootable_recovery" remote="github" revision="jellybean" />
   <project path="cts" name="platform/cts" />
-  <project path="dalvik" name="platform/dalvik" />
+  <project path="dalvik" name="CNA/android_dalvik" remote="github" revision="jellybean" />
   <project path="development" name="CNA/android_development" remote="github" revision="jellybean" />
   <project path="device/asus/grouper" name="CNA/android_device_asus_grouper" remote="github" revision="jellybean" />
   <project path="device/common" name="device/common" />
