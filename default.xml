@@ -301,7 +301,7 @@
   <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" />
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
-  <project path="sdk" name="platform/sdk" />
+  <project path="sdk" name="CNA/android_sdk" remote="github" revision="jellybean" />
   <project path="system/bluetooth" name="CNA/android_system_bluetooth" remote="github" revision="jellybean" />
   <project path="system/core" name="CNA/android_system_core" remote="github" revision="jellybean" />
   <project path="system/extras" name="CNA/android_system_extras" remote="github" revision="jellybean" />
