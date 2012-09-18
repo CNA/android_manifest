@@ -324,6 +324,7 @@
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="github" revision="jellybean" />
   <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" remote="github" revision="jellybean" />
   <project path="external/nano" name="CyanogenMod/android_external_nano" remote="github" revision="jellybean" />
+  <project path="external/vim" name="CyanogenMod/android_external_openssh" remote="github" revision="jellybean" />
   <project path="external/qrngd" name="CyanogenMod/android_external_qrngd" remote="github" revision="jellybean" />
   <project path="external/rsync" name="CyanogenMod/android_external_rsync" remote="github" revision="jellybean" />
   <project path="external/vim" name="CyanogenMod/android_external_vim" remote="github" revision="jellybean" />
