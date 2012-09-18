@@ -318,6 +318,7 @@
   <project path="system/security" name="platform/system/security" />
   <project path="system/vold" name="CNA/android_system_vold" remote="github" revision="jellybean" />
 
+  <project path="packages/apps/SamsungServiceMode" name="CNA/android_packages_apps_SamsungServiceMode" remote="github" revision="jellybean" />
   <project path="packages/apps/Torch" name="CNA/android_packages_apps_Torch" remote="github" revision="jellybean" />
   <project path="packages/apps/Trebuchet" name="CNA/android_packages_apps_Trebuchet" remote="github" revision="jellybean" />
   <project path="external/bash" name="CyanogenMod/android_external_bash" remote="github" revision="jellybean" />
