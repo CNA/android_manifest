@@ -349,7 +349,4 @@
   <project path="tools" name="CNA/android_tools" remote="github" revision="jellybean" />
   <project path="android" name="CNA/android_manifest" remote="github" revision="jellybean" />
 
-  <project path="kernel/samsung/d2" name="CNA/android_kernel_samsung_d2" remote="github" revision="jellybean" />
-  <project path="kernel/samsung/smdk4412" name="CNA/android_kernel_samsung_smdk4412" remote="github" revision="jellybean" />
-
 </manifest>
