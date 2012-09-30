@@ -241,6 +241,7 @@
   <project path="packages/apps/Camera" name="CNA/android_packages_apps_Camera" remote="github" revision="jellybean" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
+  <project path="packages/apps/CNAWallpapers" name="CNA/android_packages_apps_CNAWallpapers" remote="github" revision="jellybean" />
   <project path="packages/apps/Contacts" name="CNA/android_packages_apps_Contacts" remote="github" revision="jellybean" />
   <project path="packages/apps/DeskClock" name="CNA/android_packages_apps_DeskClock" remote="github" revision="jellybean" />
   <project path="packages/apps/Email" name="CNA/android_packages_apps_Email" remote="github" revision="jellybean" />
