@@ -43,6 +43,7 @@
   <project path="device/samsung/d2tmo" name="CNA/android_device_samsung_d2tmo" remote="github" revision="jellybean" />
   <project path="device/samsung/d2usc" name="CNA/android_device_samsung_d2usc" remote="github" revision="jellybean" />
   <project path="device/samsung/d2vzw" name="CNA/android_device_samsung_d2vzw" remote="github" revision="jellybean" />
+  <project path="device/samsung/galaxysmtd" name="CNA/android_device_samsung_galaxysmtd" remote="github" revision="jellybean" />
   <project path="device/samsung/i9300" name="CNA/android_device_samsung_i9300" remote="github" revision="jellybean" />
   <project path="device/samsung/maguro" name="CNA/android_device_samsung_maguro" remote="github" revision="jellybean" />
   <project path="device/samsung/msm8960-common" name="CNA/android_device_samsung_msm8960-common" remote="github" revision="jellybean" />
